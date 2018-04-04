@@ -2,3 +2,5 @@
 *.txt~
 .vector_cache/
 .ipynb_checkpoints/
+*Solutions.ipynb
+
