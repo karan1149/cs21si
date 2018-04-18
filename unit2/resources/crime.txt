@@ -1,0 +1,283 @@
+
+Race and crime in the United States
+From Wikipedia, the free encyclopedia
+Race
+Categorization
+Genetics and differences
+Race and genetics
+Human genetic variation
+Society
+Historical concepts
+Race
+in Brazil
+in the United States
+Racial inequality in the United States
+Racial wage gap in the United States
+Racial profiling
+Racism
+in the United States
+Scientific racism
+Race and...
+Crime in the United Kingdom
+Crime in the United States
+Race and health
+in the United States
+Intelligence
+History of the race
+and intelligence controversy
+Sports
+Video games
+Related topics
+Ethnic group
+Eugenics
+Genetics
+Human evolution
+Index
+Category
+v t e
+The relationship between race and crime in the United States has been a topic of public controversy and scholarly debate for more than a century.[1] The incarceration rate of blacks (African Americans) is more than three times higher than their representation in the general population.[2] Research suggests that the overrepresentation of some minorities in the criminal justice system is due to disproportionate crime rates, socioeconomic factors and racial discrimination by the criminal justice system.[3][4]
+
+Contents 
+1	Methodology
+1.1	Uniform Crime Reports (UCR)
+1.2	National Crime Victimization Survey (NCVS)
+1.3	Comparison of UCR and NCVS data
+1.4	Classification of Hispanics
+2	Crime rate statistics
+2.1	Prison data
+2.1.1	Arrests and sentencing
+2.1.2	Incarceration by race and ethnicity
+2.2	Crime trends
+2.3	Homicide
+2.4	Youth crime
+2.5	Robbery
+2.6	Victim surveys
+2.7	Hispanics
+2.8	Racially-motivated hate crime
+2.9	Racial composition of geographic areas
+2.10	Race and socioeconomic status
+3	Theories of causation
+3.1	Schools of thought
+3.2	Modern theories of causation
+3.2.1	Conflict theory
+3.2.2	Strain (anomie) theory
+3.2.3	General strain theory
+3.2.4	Racial segregation
+3.2.5	Social disorganization theory
+3.2.6	Macrostructural opportunity theory
+3.2.7	Structural factors
+3.2.8	Social control theory
+3.2.9	Subculture of violence theory
+3.2.10	Prosecutorial and police discrimination theory
+3.2.11	Childhood exposure to violence
+3.2.12	Inability to post bail
+4	See also
+5	References
+6	Bibliography
+7	External links
+Methodology
+In the United States, crime data are collected from three major sources: law enforcement agency crime reports, collected monthly by the Federal Bureau of Investigation and processed annually as Uniform Crime Reports (UCR); victimization surveys, collected biannually by the Bureau of Justice Statistics and processed annually in the National Crime Victimization Survey (NCVS); and self-report surveys.[further explanation needed] The Uniform Crime Reports represent the primary source of data used in the calculation of official statistics regarding serious crimes such as murder and homicide, which is supplemented by the information provided through the NCVS and self-report studies, the latter being the best indicator of actual crime rates for minor offenses such as illegal substance abuse and petty theft. These crime data collection programs provide most of the statistical information utilized by criminologists and sociologists in their analysis of crime and the extent of its relationship to race.[5] Another form of data is that regarding the prison population.
+
+Uniform Crime Reports (UCR)
+Further information: Uniform Crime Reports
+Established in 1927, the Uniform Crime Reports (UCR) program is a summary-based reporting system that collects data on crime reported to local and state law enforcement agencies across the United States. The UCR system indexes crimes under two headings: Part I and Part II offenses. Part I offenses include: murder and non-negligent homicide; non-lethal violent crimes comprising robbery, forcible rape and aggravated assault; and property crimes comprising burglary, larceny/theft, motor vehicle theft and arson. Part II offenses include fraud, forgery/counterfeiting, embezzlement, simple assault, sex offenses, offenses against the family, drug and liquor offenses, weapons offenses and other non-violent offenses excluding traffic violations.[6]
+
+There are fundamental limitations of the UCR system, including:[7]
+
+Inaccuracy: UCR statistics do not represent the actual amount of criminal activity occurring in the United States. As it relies upon local law enforcement agency crime reports, the UCR program can only measure crime known to police and cannot provide an accurate representation of actual crime rates.[8]
+Misrepresentation: The UCR program is focused upon street crime, and does not record information on many other types of crime, such as organized crime, corporate crime or federal crime. Further, law enforcement agencies can provide inadvertently misleading data as a result of local policing practices. These factors can lead to misrepresentations regarding the nature and extent of criminal activity in the United States.[9]
+Manipulation: UCR data are capable of being manipulated by local law enforcement agencies. Information is supplied voluntarily to the UCR program, and manipulation of data can occur at the local level.[10]
+Race and Ethnicity: The UCR tracks crime for the racial category of "White" to include both Hispanic and non-Hispanic ethnicities. According to the ACLU, with over 50 million Latinos residing in the United States, this hides the incarceration rates for Latinos vis-à-vis marijuana-related offenses, as they are considered "White" with respect to the UCR.[11]
+As a response to these and other limitations, a new system of crime data collection was established in 1988 as an outgrowth of the UCR system. The National Incident Based Reporting System (NIBRS) is an incident-based reporting system that will collect more comprehensive and detailed data on crime from local, state and federal law enforcement agencies. As it is still under development, NIBRS coverage is not yet nationwide.[12]
+
+National Crime Victimization Survey (NCVS)
+Further information: National Crime Victimization Survey
+The National Crime Victimization Survey (NCVS) program, established in 1972, is a national survey of a representative sample of households in the United States which covers the frequency of crime victimization and the characteristics and consequences of victimization. The primary purpose behind the NCVS program is to gather information on crimes that were not reported to police, though information is also collected on reported crimes. The survey collects data on rape, assault, robbery, burglary, personal and household larceny and motor vehicle theft. The NCVS also includes supplemental questions which allow information to be gathered on tangentially relevant issues such as school violence, attitudes towards law enforcement or perceptions regarding crime.[13]
+
+There are fundamental limitations to the NCVS program, including:[14]
+
+Reliability: NCVS statistics do not represent verified or evidenced instances of victimization. As it depends upon the recollection of the individuals surveyed, the NCVS cannot distinguish between true and fabricated claims of victimization, nor can it verify the truth of the severity of the reported incidents. Further, the NCVS cannot detect cases of victimization where the victim is too traumatized to report. These factors can contribute to deficits in the reliability of NCVS statistics.[15]
+Misrepresentation: The NCVS program is focused upon metropolitan and urban areas, and does not adequately cover suburban and rural regions. This can lead to misrepresentations regarding the nature and extent of victimization in the United States.[15]
+Comparison of UCR and NCVS data
+According to the NCVS for 1992–2000, 43% of violent criminal acts, and 53% of serious violent crime (not verbal threats, or cuts and bruises) were reported to the police. Overall, black (49%) and Native Americans (48%) victims reported most often, higher than whites (42%) and Asians (40%). Serious violent crime and aggravated assault against blacks (58% and 61%) and Native Americans (55% and 59%) was reported more often than against whites (51% and 54%) or Asians (50% and 51%). Native Americans were unusually unlikely to report a robbery (45%), as with Asians and a simple assault (31%).[16]
+
+Despite the differences in the amount of crime reported, comparisons of the UCR and NCVS data sets show there to be a high degree of correspondence between the two systems.[17] This correspondence extends to the racial demography of both perpetrators and victims of violent crime reported in both systems.[18]
+
+Classification of Hispanics
+The UCR classifies most Hispanics into the "white" category. The NCVS classifies some Hispanic criminals as "white" and some as "other race". The victim categories for the NCVS are more distinct.
+
+According to a report by the National Council of La Raza, research obstacles undermine the census of Latinos in prison, and “Latinos in the criminal justice system are seriously undercounted. The true extent of the overrepresentation of Latinos in the system probably is significantly greater than researchers have been able to document. Lack of empirical data on Latinos is partially due to prisons' failures to document race at intake, or recording practices that historically have classified Latinos as white.[19]
+
+Overall the FBI didn't include a 'Latino' or 'Hispanic' category until recently and 93% of Hispanics are classified as "white" by law enforcement officers (irrespective of their ancestry) often inflating actual white criminal statistics.[20][21]
+
+Crime rate statistics
+Further information: Crime statistics
+There is general agreement in the literature that blacks are more likely to commit violent crimes than are whites in the United States. Whether this is the case for less serious crimes is less clear.[22]
+
+Prison data
+Further information: Incarceration in the United States § Ethnicity
+
+Percent of adult males incarcerated by race and ethnicity in 2009.[2]
+According to the Bureau of Justice Statistics, blacks accounted for 39.4% of the prison and jail population in 2009, while non-Hispanic whites were 34.2%, and Hispanics (of any race) 20.6%. The incarceration rate of black males was over six times higher than that of white males, with a rate of 4,749 per 100,000 US residents.[23][24][25]
+
+According to the 2010 US Census, Hispanics constituted 16.3% of the US population.[26][27] According to the BJS, the black incarceration rate in state and federal prisons declined to 3,161 per 100,000 and the white incarceration rate slightly increased to 487 per 100,000.[28] In 2009, Native Americans and Alaskan Natives were jailed, paroled, or on probation at 932 per 100,000, 25% higher than for non-Natives (747), up 5.6% that year and 12% higher than 2007.[29] However, crime in general declined during this time down to near 1970 levels, an 18% decrease from the previous decade.[30]
+
+According to a 2013 study conducted by the Pew Research Center, black men were six times as likely as white men to be incarcerated in 2010.[31] The incarceration rates of each race varied from state to state. Oklahoma was shown to have the highest incarceration rates of black people with 2,625 black inmates per 100,000 residents. New Jersey also had high rates with 12.2 black people for every white person in its prison system. Hawaii had the lowest incarceration rates.[32]
+
+Arrests and sentencing
+A 2011 study which examined violent crime trends between 1980 and 2008 found that racial imbalances between arrest and incarceration levels were both small and comparably sized across the study period. The authors argued that the prior studies had been confounded by not separating Hispanics from Whites.[33] Another recent study in 2012 raises a different concern, showing that Hispanics and blacks receive considerably longer sentences for the same or lesser offenses on average than white offenders with equal or greater criminal records.[34][35]
+
+A 2012 University of Michigan Law School study found that African Americans are given longer federal sentences even when factoring prior criminal records, and that African American jail sentences tend to be roughly 10% longer than white jail sentences for the same crimes.[36] The study found that federal prosecutors of African American and Hispanic defendants are almost twice as likely to push for mandatory minimum sentences, leading to longer sentences and disparities in incarceration rates for federal offenses.[37]
+
+According to the US Census Bureau as of the year 2000, there were 2,224,181 blacks enrolled in college.[38] In that same year, there were 610,300 black inmates in prison according to the Bureau of Justice Statistics.[39] The results are highly correlated with education. 30 percent of those without college education and nearly 60 percent of high school dropouts had prison records.[40]
+
+The probability of arrest given the commission of a crime is higher for whites than it is for blacks for robbery, aggravated assault, and simple assault, whereas for rape the probability of arrest is approximately equal across offender race. The disparity in arrest rate between criminals who are white and black (and presumably other races) is an interesting fact. On the one hand, it suggests that the over-representation of blacks in the criminal justice system is not consistent with the interpretation that black criminals are more likely to be targeted for arrest.[41] On the other hand, the differential arrest rate may indicate disparities in allocation of police resources, with fewer resources being devoted to solving crimes in predominantly black neighborhoods. In other words, statistics on race and crime may be difficult to interpret without controlling for correlations between poverty and race, and poverty and crime.
+
+Incarceration by race and ethnicity
+Further information: Incarceration in the United States
+2010. Inmates in adult facilities, by race and ethnicity. Jails, and state and federal prisons.[42]
+Race, ethnicity	% of US population	% of U.S.
+incarcerated population	% of racial group
+White (non-Hispanic)	64	39	0.45
+Hispanic	16	19	0.831
+Black	13	40	2.306
+Crime trends
+Some studies have argued for smaller racial disparities in violent crime in recent times. However, a study of government data from 1980–2008 found that the reduction in Black violent crime relative to White violent crime was an artifact of those previous studies, which was due to Hispanic offenders being counted as White in the comparison. The Hispanic population has been increasing rapidly and Hispanics have violence rates higher than that of Whites but lower than that of Blacks.[33]
+
+Homicide
+According to the US Department of Justice, African Americans accounted for 52.5% of all homicide offenders from 1980 to 2008, with whites 45.3% and "Other" 2.2%. The offending rate for African Americans was almost 8 times higher than whites, and the victim rate 6 times higher. Most homicides were intraracial, with 84% of white victims killed by whites, and 93% of African Americans victims were killed by African Americans.[43][44][45]
+
+In 2013, number and percentage of murder arrests by race were:
+
+Black or African Americans 4,379 = 52.2%
+White Americans (non-Hispanic Americans) 2,861 = 41.7%
+Hispanic Americans 1,096 = 16.0%
+American Indians or Alaska Natives 98 = 1.06%
+Asian Americans 101 = 1.2%[46][47]
+Inversely, the percentage of individuals in each racial demographic arrested for murder in 2013 (with 2016 population estimates) was:
+
+0.0102% of Black or African American population (4,379/42,975,959)
+0.0023% of American Indian or Alaska Native population (98/4,200,658)
+0.0019% Hispanic American population (1,096/57,516,697)
+0.0014% of White American (3,799/198,077,165)
+0.001% of Native Hawaiian or Other Pacific Islander population (6/646,255)
+0.0005% of Asian American population (101/18,418,268)[46][48]
+Youth crime
+The "National Youth Gang Survey Analysis" (2011) state that of gang members, 46% are Hispanic/Latino, 35% are black, 11.5% are white, and 7% are other race/ethnicity.[49]
+
+According to the FBI Uniform Crime Reports, in the year 2008 black youths, who make up 16% of the youth population, accounted for 52% of juvenile violent crime arrests, including 58.5% of youth arrests for homicide and 67% for robbery. Black youths were overrepresented in all offense categories except DUI, liquor laws and drunkenness.[50]
+
+Robbery
+According to the National Crime Victimization Survey in 2002, the black arrest rate for robbery was 8.55 times higher than whites, and blacks were 16 times more likely to be incarcerated for robbery than non-Hispanic whites. Robberies with white victims and black offenders were more than 12 times more common than vice versa.[51][52]
+
+Victim surveys
+In 1978, Michael Hindelang compared data from the National Crime Victimization Survey (then known as the National Crime Survey, or NCS) to data from the Uniform Crime Reports, both from 1974. He found that NCS data generally agreed with UCR data in regards to the percent of perpetrators of rape, robbery, and assault who were black.[53] For instance, Hindelang's analysis found that both the NCS and UCR estimated that 62% of robbery offenders were black in the United States in 1974.[54]:327 A 2004 National Crime Victimization Survey report which analyzed carjacking over 10 years found that carjacking victims identified 56% of offenders as black, 21% as white, and 16% as Native American or Asian.[55][56][57]
+
+Hispanics
+[icon]	
+This section needs expansion. You can help by adding to it. (August 2016)
+According to a 2009 report by the Pew Hispanic Center, in 2007 Latinos "accounted for 40% of all sentenced federal offenders-more than triple their share (13%) of the total U.S. adult population". This was an increase from 24% in 1991. 72% of the Latino offenders were not U.S. citizens. For Hispanic offenders sentenced in federal courts, 48% were immigration offenses and 37% drug offenses. One reason for the large increase in immigration offenses is that they exclusively fall under federal jurisdiction.[58]
+
+Racially-motivated hate crime
+The federal government publishes a list annually of Hate Crime Statistics, 2009.[59] Also published by the federal government is the Known Offender's Race by Bias Motivation, 2009.[60] According to the Federal Bureau of Investigation Uniform Crime Report database, in 2010 58.6% of reported hate crime offenders were white, 18.4% of offenders were black, 8.9% were of individuals of multiple races and 1% of offenders were Native Americans.[61] The report also reveals that 48% of all hate crime offenders were motivated by the victim's race, while 18% were based on the victim's religion, and another 18% were based on the victim's sexual orientation.[62] The report states that among hate crime offenses motivated by race, 70% were composed of anti-black bias, while 17.7% were of anti-white bias, and 5% were of anti-Asian or Pacific Islander bias.[62]
+
+Racial composition of geographic areas
+Studies have examined if ethnic/racially heterogeneous areas, most often neighborhoods in large cities, have higher crime rates than more homogeneous areas. Most studies find that the more ethnically/racially heterogeneous an area is, the higher its crime rates tend to be.[63]
+
+Studies examining the relationship between percentages of different races in an area and crime rates have generally either found similar relationships as for nationwide crime rates or no significant relationships. Most often studied are correlations between black and Hispanic populations in a given area and crime. Such data may reveal a possible connection, but is functionally inconclusive due to a variety of other correlating factors which overlap with race and ethnicity.[63]
+
+Race and socioeconomic status
+While there is a correlation between blacks and Hispanics and crime, the data imply a much stronger tie between poverty and crime than crime and any racial group, when gender is taken into consideration.[63] The direct correlation between crime and class, when factoring for race alone, is relatively weak. When gender, and familial history are factored, class correlates more strongly with crime than race or ethnicity.[64][65] Studies indicate that areas with low socioeconomic status may have the greatest correlation of crime with young and adult males, regardless of racial composition, though its effect on females is negligible.[64][65] A 1996 study looking at data from Columbus, Ohio found that differences in disadvantage in city neighborhoods explained the vast majority of the difference in crime rates between blacks and whites,[66] and two 2003 studies looking at violent offending among juveniles reached similar conclusions.[67][68]
+
+Theories of causation
+Historically, crime statistics have played a central role in the discussion of the relationship between race and crime in the United States.[69] As they have been designed to record information not only on the kinds of crimes committed, but also on the individuals involved in crime, criminologists and sociologists have and continue to use crime rate statistics to make general statements regarding the racial demographics of crime-related phenomena such as victimization, arrests, prosecutions, convictions, and incarceration. Regardless of their views regarding causation, scholars acknowledge that some racial and ethnic minorities are disproportionately represented in the arrest and victimization reports which are used to compile crime rate statistics.[70] There is, however, a great deal of debate regarding the causes of that disproportionality.
+
+As noted above, scholars acknowledge that some racial and ethnic minorities, particularly African Americans, are disproportionately represented in the arrest and victimization reports which are used to compile crime rate statistics in the United States. The data from 2008 reveals that Black Americans are over-represented in terms of arrests made in virtually all types of crime, with the exceptions of "Driving under the influence", "Liquor laws" and hate crime. Overall, Black Americans are arrested at 2.6 times the per-capita rate of all other Americans, and this ratio is even higher for murder (6.3 times) and robbery (8.1 times).[71][72]
+
+Schools of thought
+
+W. E. B. Du Bois, one of the pioneers in the study of race and crime in the United States.
+Main article: Criminology
+The relationship between race and crime has been an area of study for criminologists since the emergence of anthropological criminology in the late 19th century.[73] Cesare Lombroso, founder of the Italian school of criminology, argued that criminal behavior was the product of biological factors, including race. He was among the first criminologists to claim a direct link between race and crime.[74] This biological perspective, sometimes seen as racist and increasingly unpopular, was criticized by early 20th century scholars, including Frances Kellor, Johan Thorsten Sellin and William Du Bois, who argued that other circumstances, such as social and economic conditions, were the central factors which led to criminal behavior, regardless of race. Du Bois traced the causes of the disproportional representation of Blacks in the criminal justice system back to the improperly handled emancipation of Black slaves in general and the convict leasing program in particular. In 1901, he wrote:
+
+There are no reliable statistics to which one can safely appeal to measure exactly the growth of crime among the emancipated slaves. About seventy per cent of all prisoners in the South are black; this, however, is in part explained by the fact that accused Negroes are still easily convicted and get long sentences, while whites still continue to escape the penalty of many crimes even among themselves. And yet allowing for all this, there can be no reasonable doubt but that there has arisen in the South since the [civil] war a class of black criminals, loafers, and ne'er-do-wells who are a menace to their fellows, both black and white.[75]
+
+The debate that ensued remained largely academic until the late 20th century, when the relationship between race and crime became a recognized field of specialized study in criminology. Helen T. Greene, professor of justice administration at Texas Southern University, and Shaun L. Gabbidon, professor of criminal justice at Pennsylvania State University, note that many criminology and criminal justice programs now either require or offer elective courses on the topic of the relationship between race and crime.[76]
+
+Sociologist Orlando Patterson has explained these controversies as disputes between liberal and conservative criminologists in which each camp focuses on mutually exclusive aspects of the causal net, with liberals focusing on factors external to the groups in question and conservatives focusing on internal cultural and behavioral factors.[77]
+
+Modern theories of causation
+Conflict theory
+Further information: Conflict theory, Conflict criminology, and Marxist criminology
+Conflict theory is considered "one of the most popular theoretical frameworks among race and crime scholars".[78] Rather than one monolithic theory, conflict theory represents a group of closely related theories which operate on a common set of fundamental assumptions.[79] As a general theory of criminal behavior, conflict theory proposes that crime is an inevitable consequence of the conflict which arises between competing groups within society. Such groups can be defined through a number of factors, including class, economic status, religion, language, ethnicity, race or any combination thereof. Further, conflict theory proposes that crime could be largely eliminated if the structure of society were to be changed.[80]
+
+The form of conflict theory which emphasizes the role of economics, being heavily influenced by the work of Karl Marx and sometimes referred to as Marxist criminology, views crime as a natural response to the inequality arising from the competition inherent in capitalist society.[81] Sociologists and criminologists emphasizing this aspect of social conflict argue that, in a competitive society in which there is an inequality in the distribution of goods, those groups with limited or restricted access to goods will be more likely to turn to crime. Dutch criminologist Willem Adriaan Bonger, one of the first scholars to apply the principles of economic determinism to the issue of crime, argued that such inequality as found in capitalism was ultimately responsible for the manifestation of crime at all levels of society, particularly among the poor. Though this line of thinking has been criticized for requiring the establishment of a utopian socialist society,[82] the notion that the disproportionality observed in minority representation in crime rate statistics could be understood as the result of systematic economic disadvantage found its way into many of the theories developed in subsequent generations.
+
+Culture conflict theory, derived from the pioneering work of sociologist Thorsten Sellin, emphasizes the role of culturally accepted norms of conduct in the formation of cultural groups and the conflicts which arise through their interaction. Culture conflict theory argues that the group with the most power in any society ensures that their values, traditions and behaviors, which Sellin referred to as "conduct norms", are those to which all other members of society are forced to conform, and any actions which conflict with the interests of the dominant group are identified as deviant and/or criminal in nature. Sellin's original ideas continued to be developed throughout the 20th century, most notably by George Vold in the 1950s and Austin Turk in the 1960s, and continue to influence the contemporary debate.[83] The recent work of Gregory J. Howard, Joshua D. Freilich and Graeme R. Newman applies culture conflict theory to the issue of immigrant and minority crime around the world. According to their research, while culturally homogeneous groups experience little to no cultural conflict, as all the members share the same set of "conduct norms", culturally heterogeneous groups, such as modern industrial nations with large immigrant populations, display heightened competition between sets of cultural norms which, in turn, leads to an increase in violence and crime. Societies which have high levels of cultural diversity in their population, it is claimed, are more likely to have higher rates of violent crime.[83]
+
+According to conflict theorists such as Marvin Wolfgang, Hubert Blalock and William Chambliss, the disproportionate representation of racial minorities in crime statistics and in the prison population is the result of race- and class-motivated disparities in arrests, prosecutions and sentencing rather than differences in actual participation in criminal activity, an approach which has also been taken by proponents of critical race theory.[84] This line of argumentation is generally seen as part of a wider approach to race-related issues referred to as the Discrimination Thesis, which assumes that differences in the treatment received by people of minority racial background in a number of public institutions, including the criminal justice, education and health care systems, is the result of overt racial discrimination. Opposed to this view is the Non-Discrimination Thesis, which seeks to defend these institutions from such accusations.[85]
+
+At the time it was first proposed, conflict theory was considered outside the mainstream of more established criminological theories, such as strain theory, social disorganization theory and differential association theory.[86] Barbara D. Warner, associate professor of criminal justice and police studies at Eastern Kentucky University, notes that conflict theory has been the subject of increasing criticism in recent years. Recent studies claim that, while there may have been real sentencing differences related to non-legal characteristics such as race in the 1960s, sentencing discrimination as described by the conflict theorists at that time no longer exists. Criticism has also pointed to the lack of testability of the general theory.[82] While much research has been done to correlate race, income level and crime frequency, typically of less serious criminal behavior such as theft or larceny, research has shown there to be no significant correlation between race, income level and crime seriousness. Thus, conflict theory encounters difficulties in attempting to account for the high levels of violent crime such as murder, homicide and rape, in minority populations.[87]
+
+Strain (anomie) theory
+Further information: Strain theory (sociology) and Anomie
+Strain theory, which is largely derived from the work of Robert K. Merton in the 1930s and 1940s, argues that social structures within society which lead to inequality and deprivation in segments of its population indirectly encourage those segments to commit crime. According to strain theory, differences in crime rates between races are the result of real differences in behavior, but to be understood as an attempt to alleviate either absolute or relative deprivation and adapt to the existing opportunity structure.[88]
+
+A more recent approach to strain theory was proposed by Steven F. Messner and Richard Rosenfeld in the 1990s. In their version of the theory, which they refer to as institutional anomie theory, Messner and Rosenfeld argue that the dominance of materialistic concerns and measurements of success manifested in the American Dream weakens the effectiveness of informal social control mechanisms and support processes, which encourages economic gain by any means, legal or illegal. In those segments of the population which experience the greatest relative deprivation, therefore, there is readiness to turn to crime to overcome inequality and eliminate relative deprivation.[89]
+
+Critics of strain theory point to its weaknesses when compared with actual criminal behavior patterns. Michael R. Gottfredson and Travis Hirschi argue that strain theory "misconstrue(s) the nature of the criminal act, supplying it with virtues it does not possess." They further point out that, while strain theory suggests that criminals should tend to target people in a more advantageous economic situation than themselves, they more often victimize individuals who live in the same economic circumstances.[90]
+
+General strain theory
+Main article: General strain theory
+Multiple studies have found evidence that Agnew's general strain theory explains much of the difference in crime between blacks and whites.[91][92][93]
+
+Racial segregation
+A 1996 study found a strong association between black-white spatial isolation and rates of black violence, consistent with the hypothesis that segregation is responsible for higher rates of black crime.[94] Multiple other studies have reached similar conclusions.[95][96][97][98] However, correlation does not equal causation, and the disproportionately higher crime rates seen in black communities—as well as the reason for their segregation—can be attributed to a number of underlying symptoms [99]
+
+Social disorganization theory
+Further information: Social disorganization theory
+Social disorganization theory proposes that high rates of crime are largely the result of a heterogeneous and impoverished social ecology.[100] Proponents of the theory point to the process of urban decay as a major contributing factor to the breakdown of healthy urban communities which would normally curb the spread of many forms of criminal behavior. The diversity of minority cultures present in poverty-stricken neighborhoods prevents the formation of strong social bonds and leaves inhabitants uninterested in maintaining positive community relationships. This has been observed to increase the likelihood of crime in certain urban areas, which can lead to increased policing and a further breakdown of familial structures as a result of arrests, which, in turn, precipitates more crime. Social disorganization theory has been instrumental in establishing the notion that stable, culturally homogeneous communities have lower rates of delinquency and crime regardless of race.[101]
+
+Macrostructural opportunity theory
+Phillippia Simmons reports that many of the studies which have investigated intra- and interracial crime seek to explain this through a theory of macrostructural opportunity which states that interracial violence is primarily a function of opportunity and access.[102] According to this theory, intraracial crime rates remain relatively high due to the fact that much of the US remains residentially segregated. She notes that this theory predicts that, if residential areas were more racially integrated, intraracial crime would decrease and interracial crime would increase correspondingly. However, she also notes that not all researchers on the topic of intraracial crime agree with this result, with some pointing to other macrostructural factors, such as income and education, which may negate the effect of race on inter- and intraracial crime.[102]
+
+Anthony Walsh criticizes the attempt to use the macrostructural opportunity model to explain interracial rape as has been done in studies conducted in the past few decades, pointing out that such a defense is directly contradicted by the data related to homicide. Walsh argues that the macrostructural opportunity model helps explain why black murderers almost always choose black victims.[103] There are disparities in rates of reporting rape where victims of some races are statistically less likely or more likely to report their rape, especially depending on the race of the offender. Black women in America are more likely to report sexual assault that has been perpetrated by a stranger.[104][105] Black women are more likely to under-report rapes overall as they are more likely to blame themselves, feel they will be blamed or feel they won't be believed.[106]
+
+Structural factors
+Evidence supporting the role of structural factors in high black crime rates comes from multiple studies. For example, Robert J. Sampson has reported that most of the reason violent crime rates are so high among blacks originates mainly from unemployment, economic deprivation, and family disorganization. Specifically, he found that "the scarcity of employed black men increases the prevalence of families headed by females in black communities" and that the increased prevalence of such families in turn results in family disruption that significantly increases black murder and robbery rates.[107] Sampson et al.[108] and Phillips[109] have reported that at least half of the black-white homicide offending differential is attributable to structural neighborhood factors like parents' marital status and social context. Multiple other studies have found a link between black crime rates and structural factors, such as single-parent families and structural inequality.[110][111][112]
+
+Social control theory
+Further information: Social control theory
+Social control theory, which is among the most popular theories in criminology,[113] proposes that crime is most commonly perpetrated by individuals who lack strong bonds or connections with their social environment.[114] Based upon Travis Hirschi's Causes of Delinquency (1969), social bonding theory pioneered the notion that criminologists can gain useful insight into the motives behind criminal behavior by examining what normally motivates individuals to refrain from crime. From this it is argued that, in those segments of the population where such motivation is lacking, crime will be more prevalent. Hirschi was explicit in mentioning that he believed his theory held true across all racial boundaries, and subsequent research - both in the US and abroad - seems to confirm this belief.[115] The core idea of social control theory is elaborated upon in several other theories of causation, particularly social disorganization theory.
+
+Subculture of violence theory
+Further information: Subcultural theory
+As a theory of criminal behavior, subculture of violence theory claims that certain groups or subcultures exist in society in which violence is viewed as an appropriate response to what, in the context of that subculture, are perceived as threatening situations. Building upon the work of cultural anthropologist Walter B. Miller's focal concerns theory, which focused on the social mechanisms behind delinquency in adolescents, sociologists Marvin Wolfgang and Franco Ferracuti proposed that the disproportionally high rate of crime among African Americans could be explained by their possessing a unique racial subculture in which violence is experienced and perceived in a manner different from that commonly observed in mainstream American culture.[116]
+
+As to the origins of this subculture of violence among African Americans, sociologists promoting the theory have pointed towards their Southern heritage. As noted in several studies conducted throughout the 1960s and 1970s, there is a traditional North-South discrepancy in the distribution of homicide in the US, regardless of race, and this, it was argued, indicates that lower-class Southern Blacks and Whites share the same subculture of violence.[117]
+
+The empirical basis for the subculture of violence theory, however, has been described as "extremely limited and unpersuasive".[117] Very little has been done to attempt an adequate assessment of supposedly criminogenic subcultural values, and several studies conducted in the late 1970s claimed to falsify the assumptions upon which the subculture of violence theory depends.[117] More recently, scholars have criticized the theory as potentially racist in nature in its implication of one given ethnicity or culture supposedly being less fit for or less worthy of being qualified as "civilized," the built-in implication of which in turn would denote stereotypically "white" behavior as an objective norm for all societies to follow.[118]
+
+Prosecutorial and police discrimination theory
+Further information: Racial inequality in the American criminal justice system
+Research suggests that police practices, such as racial profiling, over-policing in areas populated by minorities and in-group bias may result in disproportionately high numbers of racial minorities among crime suspects.[119][120][121][122] Research also suggests that there may be possible discrimination by the judicial system, which contributes to a higher number of convictions for racial minorities.[123][124][125][126][127] A 2012 study found that "(i) juries formed from all-white jury pools convict black defendants significantly (16 percentage points) more often than white defendants, and (ii) this gap in conviction rates is entirely eliminated when the jury pool includes at least one black member."[125] Research has found evidence of in-group bias, where "black (white) juveniles who are randomly assigned to black (white) judges are more likely to get incarcerated (as opposed to being placed on probation), and they receive longer sentences."[127] In-group bias has also been observed when it comes to traffic citations, as black and white cops are more likely to cite out-groups.[121] A 2016 paper by Roland G. Fryer, Jr, found that while there are no racial differences in lethal use of police force, blacks and Hispanics are significantly more likely to experience non-lethal use of force.[128] Reports by the Department of Justice have also found that police officers in Baltimore, Maryland, and Ferguson, Missouri, systemically stop, search (in some cases strip-searching) and harass black residents.[129][130] A January 2017 report by the DOJ also found that the Chicago Police Department had "unconstitutionally engaged in a pattern of excessive and deadly force" and that police "have no regard for the sanctity of life when it comes to people of color".[131]
+
+In criminal sentencing, medium to dark-skinned African Americans are likely to receive sentences 2.6 years longer than those of whites or light-skinned African Americans. When a white victim is involved, those with more "black" features are likely to receive a much more severe punishment.[132]
+
+A 2013 report by the American Civil Liberties Union found that blacks were "3.73 times more likely than whites to be arrested for marijuana possession", even though "blacks and whites use drugs, including marijuana, at similar rates."[133]
+
+A 2016 analysis by the New York Times "of tens of thousands of disciplinary cases against inmates in 2015, hundreds of pages of internal reports and three years of parole decisions found that racial disparities were embedded in the prison experience in New York."[134] Blacks and Latinos were sent more frequently to solitary and held there for longer durations than whites.[134] The New York Times analysis found that the disparities were the greatest for violations where the prison guards had lots of discretion, such as disobeying orders, but smaller for violations that required physical evidence, such as possessing contraband.[134]
+
+A 2016 report by the Sarasota Herald-Tribune found that Florida judges sentence black defendants to far longer prison sentences than whites with the same background.[135] For the same drug possession crimes, blacks were sentenced to double the time of whites.[135] Blacks were given longer sentences in 60 percent of felony cases, 68 percent of the most serious first-degree crimes, 45 percent of burglary cases and 30 percent of battery cases.[135] For third-degree felonies (the least serious types of felonies in Florida), white judges sentenced blacks to twenty percent more time than whites, whereas black judges gave more balanced sentences.[135] One judge responded by noting that about ninety-eight percent of sentences are the result of plea bargaining and that sentencing is a complicated issue given the various facts involved, thus no two cases can be compared. [136] Some attorneys note that poorer defendants often rely on public defenders who often receive less favorable plea offers than defendants with private counsel because private attorneys have lighter case loads, are less likely to go to trial with prosecutors, and defendants with means are more likely to present mitigating factors. [137]
+
+Another theory proposes that racial inequality in the American criminal justice system is mostly caused by a racial imbalance in decisions to charge criminal defendants with crimes requiring a mandatory minimum prison sentence, leading to large racial disparities in incarceration.[37]
+
+
+A graph showing the Incarceration rate under state and federal jurisdiction per 100,000 population 1925–2008. It does not include jail inmates. The male incarceration rate is roughly 15 times the female incarceration rate.
+In a 2008 self-published paper Paul Heaton from the RAND Corporation and Charles Loeffler wrote, that some scholars and studies have argued that police discrimination is not an important explanation for racial differences in crime, others state that it is the main cause and some argue that both discrimination and different real crime rates contribute. They claim that the varying results can be explained to a large degree by the methods being uncertain with many possible confounding factors. As such Heaton and Loeffler proposed a method that they argue would remove all such observable and unobservable problems. They looked at the arrest rates for assault, robbery, and rape cases where the victims reported a black and white co-offending pair and argue that differences in arrest rates should only reflect police bias. They found that the black offenders were 3% more likely to be arrested. This suggests some bias, but is insufficient to explain the large racial crime disparities.[138]
+
+Childhood exposure to violence
+Research shows that childhood exposure to violence significantly increases the likelihood to engage in violent behavior. When studies control for childhood exposure to violence, black and white males are equally likely to engage in violent behavior.[139]
+
+Inability to post bail
+According to a 2017 study in the Journal of Law and Economics, "Higher pretrial detention rates among minority defendants explain 40 percent of the black-white gap in rates of being sentenced to prison and 28 percent of the Hispanic-white gap."[140] The majority of individuals held in pretrial detention are being held because they cannot afford to post bail.[140] The individuals in pretrial detention face higher incentives to plead guilty (even if they are innocent) for a number of reasons, which leads to a higher sentencing rates for these individuals.[140]
