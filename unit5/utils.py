@@ -51,14 +51,19 @@ def simplify_text(text):
             removed += 1
     return text
 
-def sample_from_model(model, text, char_indices, indices_char, chunk_length, number_of_characters):
+def sample_from_model(model, text, char_indices, indices_char, chunk_length, number_of_characters, seed=""):
 	text = text.lower()
 	start_index = random.randint(0, len(text) - chunk_length - 1)
 	for diversity in [0.2, 0.5, 0.7]:
 	    print('----- diversity:', diversity)
 
 	    generated = ''
-	    sentence = text[start_index: start_index + chunk_length]
+	    if not seed:
+	    	sentence = text[start_index: start_index + chunk_length]
+	    else:
+	    	seed = seed.lower()
+	    	sentence = seed[:chunk_length]
+	    	sentence = ' ' * (chunk_length - len(sentence)) + sentence
 	    generated += sentence
 	    print('----- Generating with seed: "' + sentence + '"')
 	    sys.stdout.write(generated)
