@@ -27,7 +27,7 @@ import argparse
 import json
 from collections import defaultdict
 
-name = "128 to 64 hidden units large dataset with simplification"
+experiment_name = "128 to 64 hidden units large dataset with simplification"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--cont", action="store_true", default=False)
@@ -99,7 +99,7 @@ if not args.cont:
     optimizer = RMSprop(lr=0.0005)
     model.compile(loss='categorical_crossentropy', optimizer=optimizer)
     with open(outputs_directory + "/logs.json", 'w') as f:
-        json.dump({"name": name, "logs": []}, f)
+        json.dump({"experiment_name": experiment_name, "logs": []}, f)
 else:
     model_file = sorted(os.listdir(outputs_directory), reverse=True)[0]
     model = load_model(outputs_directory + "/" + model_file)
@@ -119,7 +119,6 @@ def sample(preds, temperature=1.0):
 def on_epoch_end(epoch, logs):
     # Function invoked at end of each epoch. Prints generated text.
     # TODO remove
-    print(logs)
     with open(outputs_directory + "/logs.json", 'r') as f:
         curr_dict = json.load(f)
     curr_dict['logs'].append(logs)
